@@ -92,3 +92,8 @@ h1 {
 .col:has(.team-card) {
   padding-bottom: 50px;
 }
+
+#events img {
+  height: 512px;
+  object-fit: contain;
+}
